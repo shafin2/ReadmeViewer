@@ -168,7 +168,28 @@ All button IDs follow the pattern: `<section>-btn-<action>` or `<section>-nav-<p
 
 ---
 
-## 10. USAGE HISTORY & API PAGES
+## 10. BANNERS
+
+### AppSumo Banner (Promotional Banner on Pricing Pages)
+| Button ID | Location | Action | Page |
+|-----------|----------|--------|------|
+| `banner-btn-appsumo-code` | AppSumo Banner | Open AppSumo Code Modal | Pricing Pages |
+| `banner-btn-appsumo-deal` | AppSumo Banner | External Link to AppSumo Deal | Pricing Pages (Desktop) |
+
+### Promotional Banner (Site-wide Promotions)
+| Button ID | Location | Action | Page |
+|-----------|----------|--------|------|
+| `banner-btn-promo-mobile` | Promotional Banner | CTA Link (Mobile) | Various Pages |
+| `banner-btn-promo-desktop` | Promotional Banner | CTA Link (Desktop) | Various Pages |
+
+### Plan Status Banner
+| Button ID | Location | Action | Page |
+|-----------|----------|--------|------|
+| `banner-btn-plan-status` | Plan Status Banner | Navigate to Plan/Billing Action | Dashboard (when plan status needs attention) |
+
+---
+
+## 11. USAGE HISTORY & API PAGES
 
 ### Usage History Pages (`/usage_history`)
 | Button ID | Location | Action |
