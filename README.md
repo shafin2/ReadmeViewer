@@ -122,3 +122,9 @@ If you have questions or run into issues, feel free to open an issue on GitHub.
 
 Made with ❤️ for documentation lovers
 
+
+---
+
+## Author
+
+Built by **[Shafin Zaman](https://www.shafinzaman.dev)** (Shafin Uz Zaman), Senior AI Engineer. More of my work: [shafinzaman.dev/work](https://www.shafinzaman.dev/work).
